@@ -29,7 +29,7 @@ The dataset used for this project contains transactional data, including details
 1. Ensure the dataset is in the same directory as the code and named `black_friday_data.csv`.
 2. Run the analysis script:
    ```bash
-   python sales_analysis.py
+   BlackFridaySalesAnalysis.ipynb
    ```
 3. The script will:
    - Load and preprocess the dataset
